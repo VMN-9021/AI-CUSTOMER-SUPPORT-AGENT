@@ -32,6 +32,16 @@ Based on the query category, the workflow processes the request and generates a 
 - OpenAI
 - Streamlit
 
+## Project Structure
+
+```text
+ai-customer-support-agent/
+│
+├── agent.py
+├── app.py
+├── req.txt
+└── README.md
+
 ## Workflow
 
 ```text
