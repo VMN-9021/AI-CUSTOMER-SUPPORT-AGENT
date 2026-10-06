@@ -34,7 +34,7 @@ Based on the query category, the workflow processes the request and generates a 
 
 ## Project Structure
 
-```text
+
 ai-customer-support-agent/
 │
 ├── agent.py
@@ -44,7 +44,7 @@ ai-customer-support-agent/
 
 ## Workflow
 
-```text
+
 User Query
     ↓
 Query Classification
